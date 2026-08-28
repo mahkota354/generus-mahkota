@@ -1,0 +1,62 @@
+
+LANGKAH LENGKAP DEPLOY KE GITHUB PAGES (GRATIS SELAMANYA, NO KREDIT):
+
+=== CARA 1: UPLOAD LANGSUNG (PALING GAMPANG, 2 MENIT) ===
+
+1. Buka https://github.com/new
+   - Repository name: generus-mahkota
+   - Public (biar Pages gratis)
+   - Centang Add README
+   - Create repository
+
+2. Di halaman repo baru, klik "Add file" > "Upload files"
+
+3. Drag & drop SEMUA file dari folder ini:
+   - index.html (WAJIB - ini aplikasi PRO)
+   - simple.html
+   - logo-192.png, logo-512.png, logo.jpg, logo.png
+   - manifest.json
+   - .nojekyll
+   - README.md
+
+4. Klik "Commit changes"
+
+5. Masuk ke Settings (tab atas) > Pages (menu kiri)
+   - Build and deployment > Source: Deploy from a branch
+   - Branch: main, Folder: / (root)
+   - Save
+
+6. Tunggu 1-2 menit, refresh halaman Settings > Pages
+   - Akan muncul link: https://USERNAME.github.io/generus-mahkota/
+   - Klik link -> APLIKASI SUDAH LIVE!
+
+7. Share link ke admin kelompok!
+
+=== CARA 2: PAKAI GITHUB DESKTOP (Jika mau edit nanti) ===
+
+1. Install GitHub Desktop
+2. Clone repo generus-mahkota
+3. Copy file index.html ke folder
+4. Commit & Push
+5. Otomatis deploy
+
+=== KEUNTUNGAN GITHUB PAGES ===
+- Gratis selamanya, tanpa kredit, tanpa kartu kredit
+- Unlimited bandwidth
+- Link permanen: username.github.io/generus-mahkota
+- Bisa custom domain (generusmahkota.com) gratis
+- Auto HTTPS
+
+LOGIN:
+superadmin / 123456 (semua)
+anggaraja / 123456 (27)
+annur / 123456 (59)
+buciper / 123456 (32)
+dayangsumbi / 123456 (48)
+padasuka / 123456 (23)
+sriwijaya / 123456 (20)
+
+Jangan share password di grup umum, share private!
+Klik logo 5x untuk popup login (easter egg)
+
+Sudah fix semua data bisa diedit + sinkron Supabase!
